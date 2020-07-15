@@ -1,7 +1,7 @@
 {
-  "name": "webscraper",
-  "version": "0.0.1",
-  "description": "A generalized webscraper for Planterdocs",
+  "name": "@planterdocs/webscraper",
+  "version": "0.0.2",
+  "description": "A generalized webscraper",
   "main": "index.js",
   "scripts": {
     "test": "npm run lint",
