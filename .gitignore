@@ -1,0 +1,10 @@
+# auth
+.env
+
+# directories
+node_modules
+
+# samples
+example.js
+scrapes/
+
