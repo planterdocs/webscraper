@@ -1,6 +1,6 @@
 {
   "name": "@planterdocs/webscraper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A generalized webscraper",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "Tyler Laskey <tlaskey3@gmail.com> (https://github.com/tlaskey)",
     "Michael Sterpka <michaelsterpka@gmail.com> (https://github.com/mster)"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/planterdocs/webscraper/issues"
   },
